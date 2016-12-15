@@ -65,6 +65,8 @@ h2 {
     display: inline-block;
     margin-right: -4px;
     
+div { text-align: center; }
+ul { display: inline-block; text-align: left; }
 
 
 
